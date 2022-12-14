@@ -86,11 +86,11 @@ body{
 }
 
 .right{
-    transform: rotateX(90deg) translateZ(50px);
+    transform: rotateY(90deg) translateZ(50px);
 }
 
 .left{
-    transform: rotateX(-90deg) translateZ(50px);
+    transform: rotateY(-90deg) translateZ(50px);
 } 
 
 .front::after{
